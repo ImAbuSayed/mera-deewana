@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mera-deewana/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Mera Deewana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mera-deewana/) |
+| **Get License** | [Music Rights & Licensing for Mera Deewana](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mera-deewana/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1758)
 
 ---
 
