@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਹਨੇਰੀ ਇਸ ਰਾਤ ਵਿੱਚ tu ae bright spark
+> ਤੇਰਾ ਨਸ਼ਾ ਚੜ੍ਹਦਾ ਐ in the dark
+> ਮੈਂ ਤਾਂ ਤੇਰਾ ਦੀਵਾਨਾ ਹਾਂ holding you close
+> ਖੁਸ਼ਬੂ ਤੇਰੀ ਕਰਦੀ ਐ sweet overdose
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
